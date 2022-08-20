@@ -1,0 +1,17 @@
+There are two ways to execute the AES:
+V1 - child class base coding
+V2 - function base coding
+
+
+Structure:
+-setting secret key
+
+senders
+-get the msg
+-encrypting the msg
+-printing the encrypted msg
+
+receiver
+-set encrypted msg
+-decrypting the msg
+-showing the senders msg
